@@ -9,7 +9,7 @@ export default function Navbar() {
         
         
         <h1 className="text-lg sm:text-xl font-semibold text-gray-800">
-          Inventory Management
+          StoreHub
         </h1>
 
         {/* Right side */}
